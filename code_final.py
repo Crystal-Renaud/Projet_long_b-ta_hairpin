@@ -44,7 +44,7 @@ def read_hpin(hpin):
 
 #Pour récupérer les séquences des différentes listes obtenues après extraction du fichier .hpin
 def extraire_si_pos_dans_liste_existe(nom_liste, position):
-    if position <= len(nom_liste):
+    if position < len(nom_liste):
         return nom_liste[position]
     else:
         return ""
