@@ -89,8 +89,6 @@ print(f"""La séquence de la protéine est:
 {residu}""")
 print(f"""Les structures associées à la séquence sont: 
 {structure}""")
-print(  )
-print(  )
 print( )
 
 pos_brin_1 = []
@@ -164,8 +162,6 @@ print(f"La séquence du b-hairpin est {hairpin_a}")
 print(f"Le type de b-hairpin est {type_hairpin_a}")
 print(f"Le type de b-turn est {type_bturn_a}")
 print(f"La zone de Ramachandrant est {zone_rama_a}")
-print(  )
-print( )
 print( )
 
 #Vérifier si les séquences du fichier hpin existent dans la protéine
@@ -209,8 +205,6 @@ print(f"La séquence du b-hairpin est {hairpin_b}")
 print(f"Le type de b-hairpin est {type_hairpin_b}")
 print(f"Le type de b-turn est {type_bturn_b}")
 print(f"La zone de Ramachandrant est {zone_rama_b}")
-print(  )
-print( )
 print( )
 
 #Vérifier si les séquences du fichier hpin existent dans la protéine
@@ -254,8 +248,6 @@ print(f"La séquence du b-hairpin est {hairpin_c}")
 print(f"Le type de b-hairpin est {type_hairpin_c}")
 print(f"Le type de b-turn est {type_bturn_c}")
 print(f"La zone de Ramachandrant est {zone_rama_c}")
-print(  )
-print( )
 print( )
 
 #Vérifier si les séquences du fichier hpin existent dans la protéine
